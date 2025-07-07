@@ -1,2 +1,2 @@
 # rss-bot-info
-rss
+README
